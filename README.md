@@ -9,3 +9,4 @@ $ npm install
 $ npm link hbs
 $ npm run start
 
+The project is hosted on heroku. Please click [here](https://git-auth.herokuapp.com/)
