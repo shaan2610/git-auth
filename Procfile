@@ -1,1 +1,1 @@
-web: npm run start:prod
+web: sh -c 'npm install && npm link hbs && npm run start:prod'
